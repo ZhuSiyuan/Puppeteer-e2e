@@ -1,1 +1,0 @@
-# Puppeteer-e2e
