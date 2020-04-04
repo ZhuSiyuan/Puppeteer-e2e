@@ -1,8 +1,19 @@
 # e2e-demo
 
-Usage:
+### Usage:
+
+First, start the "todo" server.
 
 ```bash
+$ git clone https://github.com/koajs/todo.git
+$ npm install
+$ npm start
+```
+
+Second, test it.
+
+```bash
+$ git clone https://github.com/ZhuSiyuan/Puppeteer-e2e.git
 $ npm install
 $ npm test
 
