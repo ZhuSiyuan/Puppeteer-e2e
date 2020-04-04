@@ -17,7 +17,7 @@ $ git clone https://github.com/ZhuSiyuan/Puppeteer-e2e.git
 $ npm install
 $ npm test
 
-> puppeteer-demo@1.0.0 test /path/to/e2e-demo
+> puppeteer-demo@1.0.0 test /path/to/Puppeteer-e2e
 > mocha test/bootstrap.js --recursive test --timeout 10000
 
   test my todo list
