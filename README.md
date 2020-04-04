@@ -1,4 +1,4 @@
-# e2e-demo
+# Puppeteer-e2e
 
 ### Usage:
 
